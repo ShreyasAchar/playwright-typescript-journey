@@ -20,7 +20,7 @@ If you're a beginner, you're in the right place. You don't need any prior progra
 ```bash
 # 1. Install Node.js (LTS) from https://nodejs.org
 # 2. Clone this repo
-git clone <this-repo-url>
+git clone https://github.com/ShreyasAchar/playwright-typescript-journey.git
 cd playwright-typescript-journey
 # 3. Install dependencies (once package.json exists, from Day 1 onwards)
 npm install
